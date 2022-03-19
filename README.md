@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @BehrouzSohrabi
 - 👀 I’m interested in machine learning, data analysis, front-end development, and UI
 - 🌱 I’m currently learning R for data analysis purposes
-- 💞️ I’m looking to collaborate on machine learning stuff
-- 📫 My email address: sohrabi.beh@gmail.com
